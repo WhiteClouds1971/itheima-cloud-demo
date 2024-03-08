@@ -1,0 +1,1 @@
+学习“黑马”培训机构的《微服务开发框架SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式微服务全技术栈课程》自己搭建的 微服务 demo
